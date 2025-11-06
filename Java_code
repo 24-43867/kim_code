@@ -1,0 +1,9 @@
+import java.util.Scanner;
+
+public class FavoriteQuote {
+    public static void main(String[] args) {
+        
+        System.out.println("Hello, my name is Kim");
+        System.out.println("My favorite qoute is: \"Life is gold.\"");
+    }
+}
