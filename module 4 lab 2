@@ -1,7 +1,7 @@
 public class FindMaximumElement {
     public static void main(String[] args) {
       
-        int[] numbers = {45, 20, 88, 92, 54, 31};
+        int[] numbers = {88, 40, 20, 92, 54, 31};
 
         int max = numbers[0];
 
